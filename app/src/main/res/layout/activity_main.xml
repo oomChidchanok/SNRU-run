@@ -29,7 +29,8 @@
             android:layout_height="wrap_content"
             android:text="SIGN IN"
             android:id="@+id/btnSignIn"
-            android:layout_weight="1" />
+            android:layout_weight="1"
+            android:onClick="clickSignIn" />
     </LinearLayout>
 
     <LinearLayout
